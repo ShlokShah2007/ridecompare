@@ -17,6 +17,33 @@
     "distanceKm": 5.7,
     "durationMinutes": 7,
     "bookedProvider": {
+      "id": "nammayatri",
+      "name": "Namma Yatri",
+      "vehicleName": "Namma Yatri Auto",
+      "fare": 89,
+      "category": "auto"
+    },
+    "id": "trip_1789702074313_8z1iz",
+    "timestamp": 1789702074313
+  },
+  {
+    "pickup": {
+      "name": "Koramangala Sony World Signal",
+      "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "lat": 12.9352,
+      "lng": 77.6245,
+      "city": "Bengaluru"
+    },
+    "dropoff": {
+      "name": "Indiranagar 100ft Road",
+      "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+      "lat": 12.9719,
+      "lng": 77.6412,
+      "city": "Bengaluru"
+    },
+    "distanceKm": 5.7,
+    "durationMinutes": 7,
+    "bookedProvider": {
       "id": "rapido",
       "name": "Rapido",
       "vehicleName": "Rapido Bike",

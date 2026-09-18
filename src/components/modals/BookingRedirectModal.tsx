@@ -60,13 +60,9 @@ export function BookingRedirectModal({
         }),
       }).catch((err) => console.warn('Could not auto-save history:', err));
 
-      if (isMobileDevice) {
-        setRedirectNotice(`Attempting to launch ${estimate.providerName} app...`);
-      } else {
-        setRedirectNotice(`Desktop detected. Ready to open official web booking.`);
-      }
+      // Saved booking to history
     }
-  }, [isOpen, estimate, pickup, dropoff, isMobileDevice]);
+  }, [isOpen, estimate, pickup, dropoff]);
 
   if (!isOpen || !estimate) return null;
 
