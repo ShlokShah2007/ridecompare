@@ -1,0 +1,116 @@
+[
+  {
+    "pickup": {
+      "name": "Koramangala Sony World Signal",
+      "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "lat": 12.9352,
+      "lng": 77.6245,
+      "city": "Bengaluru"
+    },
+    "dropoff": {
+      "name": "Indiranagar 100ft Road",
+      "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+      "lat": 12.9719,
+      "lng": 77.6412,
+      "city": "Bengaluru"
+    },
+    "distanceKm": 5.7,
+    "durationMinutes": 7,
+    "bookedProvider": {
+      "id": "rapido",
+      "name": "Rapido",
+      "vehicleName": "Rapido Bike",
+      "fare": 59,
+      "category": "bike"
+    },
+    "id": "trip_1789696676364_69usj",
+    "timestamp": 1789696676364
+  },
+  {
+    "pickup": {
+      "name": "Koramangala Sony World Signal",
+      "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "lat": 12.9352,
+      "lng": 77.6245,
+      "city": "Bengaluru"
+    },
+    "dropoff": {
+      "name": "Indiranagar 100ft Road",
+      "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+      "lat": 12.9719,
+      "lng": 77.6412,
+      "city": "Bengaluru"
+    },
+    "distanceKm": 5.7,
+    "durationMinutes": 7,
+    "bookedProvider": {
+      "id": "nammayatri",
+      "name": "Namma Yatri",
+      "vehicleName": "Namma Yatri Auto",
+      "fare": 89,
+      "category": "auto"
+    },
+    "id": "trip_1789696579846_ymn0p",
+    "timestamp": 1789696579846
+  },
+  {
+    "id": "trip_blr_1",
+    "timestamp": 1789682089733,
+    "pickup": {
+      "name": "Koramangala Sony World",
+      "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru",
+      "lat": 12.9352,
+      "lng": 77.6245,
+      "city": "Bengaluru"
+    },
+    "dropoff": {
+      "name": "Indiranagar 100ft Road",
+      "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",
+      "lat": 12.9719,
+      "lng": 77.6412,
+      "city": "Bengaluru"
+    },
+    "distanceKm": 5.8,
+    "durationMinutes": 24,
+    "bookedProvider": {
+      "id": "rapido",
+      "name": "Rapido",
+      "vehicleName": "Rapido Bike",
+      "fare": 54,
+      "category": "bike"
+    },
+    "lowestPriceFound": 54,
+    "highestPriceFound": 175,
+    "savedAmount": 32
+  },
+  {
+    "id": "trip_del_2",
+    "timestamp": 1789595689733,
+    "pickup": {
+      "name": "Connaught Place Central",
+      "address": "Connaught Place, New Delhi, Delhi",
+      "lat": 28.6315,
+      "lng": 77.2167,
+      "city": "New Delhi"
+    },
+    "dropoff": {
+      "name": "Cyber City Gurugram",
+      "address": "DLF Cyber City, DLF Phase 2, Gurugram",
+      "lat": 28.4986,
+      "lng": 77.0878,
+      "city": "Gurugram"
+    },
+    "distanceKm": 27.4,
+    "durationMinutes": 52,
+    "bookedProvider": {
+      "id": "uber",
+      "name": "Uber",
+      "vehicleName": "Uber Go",
+      "fare": 485,
+      "category": "cab_economy"
+    },
+    "lowestPriceFound": 485,
+    "highestPriceFound": 620,
+    "savedAmount": 135
+  }
+]
