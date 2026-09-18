@@ -6,7 +6,7 @@
 
 ## 🌐 Live Application Link
 
-- **Live URL**:https://ridecompare-iota.vercel.app/ *(or your deployed Vercel URL)*
+- **Live URL**:https://ridecompare-iota.vercel.app/ 
 - **GitHub Repository**: [https://github.com/ShlokShah2007/ridecompare](https://github.com/ShlokShah2007/ridecompare)
 
 ---
